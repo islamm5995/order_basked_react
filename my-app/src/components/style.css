@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: auto;
+
+}
+
+.menu{
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://media.istockphoto.com/id/1186774664/photo/coffee-beans-in-cup-drawn-in-chalk.webp?a=1&b=1&s=612x612&w=0&k=20&c=PQYey6FVX7ZttBMOvQpoDlzzuxKK0RnMPqMtQlqlL1w=);
+}
+
+.basked{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://media.istockphoto.com/id/1165085589/photo/coffee-and-croissant.webp?a=1&b=1&s=612x612&w=0&k=20&c=NNJVDkVLkryEH4mNidkxehUJGSBSOxTfhZ9jlIB7t3o=);
+}
+
+.menutext{
+    color: white;
+    font-size: 65px;
+    padding-left: 200px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+.ordertext{
+    color: white;
+    font-size: 65px; 
+    padding-left: 200px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+li{
+    list-style: none;
+    color: white;
+    font-size: 50px;
+    padding-left: 160px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+
